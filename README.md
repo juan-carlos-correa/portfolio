@@ -1,4 +1,4 @@
-# portfolio
+# Personal Investment Portfolio
 This is public information about Personal Investment Portfolio mobile application
 
 # Privacy policy (En)
